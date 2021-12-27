@@ -1,9 +1,7 @@
 //
 //  TaskModelRepository.swift
 //  MAPD714-F2021-Assign4
-//
-//  Created by Shirin Mansouri on 2021-11-19.
-//
+
 
 import Foundation
 import FirebaseDatabase
