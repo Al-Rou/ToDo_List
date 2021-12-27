@@ -1,9 +1,7 @@
 //
 //  AppDelegate.swift
 //  MAPD714-F2021-Assign4
-//
-//  Created by Walter Sancho on 07/11/2021.
-//
+
 
 import UIKit
 import Firebase
